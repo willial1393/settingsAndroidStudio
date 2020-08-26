@@ -1,11 +1,8 @@
 <application>
-  <component name="CodeInsightSettings">
-    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
