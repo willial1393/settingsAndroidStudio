@@ -8,6 +8,11 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
+  <action id="EditorUnSelectWord" />
+  <action id="Flutter.ExtractWidget">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="GotoBookmark7" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
