@@ -24,5 +24,10 @@
         <option value="deep-completions" />
       </set>
     </option>
+    <option name="completeIndexingProjects">
+      <map>
+        <entry key="d00204b2" value="3" />
+      </map>
+    </option>
   </component>
 </application>
