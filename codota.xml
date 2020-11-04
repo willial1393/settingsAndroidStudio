@@ -29,5 +29,10 @@
         <entry key="d00204b2" value="3" />
       </map>
     </option>
+    <option name="usedLanguages">
+      <set>
+        <option value="kotlin" />
+      </set>
+    </option>
   </component>
 </application>
