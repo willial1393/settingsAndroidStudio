@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\lib'" />
-    <option name="defaultScopeName" value="Directory '...\lib'" />
+    <option name="customScope" value="Project 'famosos-users-app'" />
+    <option name="defaultScopeName" value="Project 'famosos-users-app'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\lib'" />
+    <option name="SEARCH_SCOPE" value="Project 'famosos-users-app'" />
   </component>
 </application>
