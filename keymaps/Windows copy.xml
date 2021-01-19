@@ -5,7 +5,7 @@
   <action id="ActivateTODOToolWindow" />
   <action id="EditorUnSelectWord" />
   <action id="Flutter.ExtractWidget">
-    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
