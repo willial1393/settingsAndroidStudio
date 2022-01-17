@@ -38,6 +38,10 @@
           <option name="url" value="https://willial13@bitbucket.org/famosos/famosos-user-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://willial13@bitbucket.org/famosos/famosos-celebrity-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\willi\StudioProjects" />
