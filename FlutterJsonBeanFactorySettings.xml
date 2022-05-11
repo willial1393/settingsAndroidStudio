@@ -1,6 +1,0 @@
-<application>
-  <component name="FlutterJsonBeanFactorySettings">
-    <option name="modelSuffix" value="model" />
-    <option name="openNullAble" value="false" />
-  </component>
-</application>
