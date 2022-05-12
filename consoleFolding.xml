@@ -1,0 +1,15 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="║" />
+        <option value="╟" />
+      </list>
+    </option>
+    <option name="addedNegative">
+      <list>
+        <option value="╔╣" />
+      </list>
+    </option>
+  </component>
+</application>
